@@ -2,8 +2,8 @@
   "name": "with-redux-toolkit",
   "version": "1.0.0",
   "scripts": {
-    "dev": "NODE_OPTIONS='--openssl-legacy-provider' next",
-    "build": "NODE_OPTIONS='--openssl-legacy-provider' next build",
+    "dev": "next",
+    "build": "next build",
     "start": "next start"
   },
   "dependencies": {
